@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**JMunoz610/JMunoz610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jacob Munoz, a passionate developer based in New Jersey. I love creating innovative solutions and embracing new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer with a focus on robotics and automation. Currently, I am exploring various programming languages and frameworks to enhance my skills. I enjoy collaborating on projects that challenge me to think creatively and push my limits.
+
+## Skills & Technologies
+
+cpp,py,ros,anaconda,matlab,ubuntu,vscode,windows
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/jmunoz610","generic":"https://drive.google.com/drive/u/0/folders/1tAe1HK8xv-FKhexOFx5qiBEVPAJ4C39I"}
