@@ -26,4 +26,4 @@ My goal is to design systems that are technically sound, reproducible, and usefu
 
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/jmunoz610)  
-- [Google Drive Portfolio](https://drive.google.com/drive/u/0/folders/1tAe1HK8xv-FKhexOFx5qiBEVPAJ4C39I)
+- [Google Drive (Resume + Supplementary Material)](https://drive.google.com/drive/u/0/folders/1tAe1HK8xv-FKhexOFx5qiBEVPAJ4C39I)
